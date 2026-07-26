@@ -1,22 +1,7 @@
-# Regresión Lineal Simple OLS: League of Legends (LoL) 🎮📈
+📊 Análisis y Minería de DatosEsta sección reúne proyectos prácticos enfocados en transformar datos crudos en información útil y modelos predictivos:
 
-## 📌 Descripción del Proyecto
-Implementación del flujo completo de un modelo de Regresión Lineal Simple mediante **Mínimos Cuadrados Ordinarios (OLS)** utilizando un dataset de League of Legends. El objetivo principal es seleccionar dos variables cuantitativas continuas, modelar su relación predictiva, interpretar las métricas de ajuste y evaluar las limitaciones prácticas del modelo.
+  -Limpieza y Preparación de Datos (Spotify 2023): Imputación de nulos, tratamiento de outliers con IQR y codificación de variables (One-Hot y Label Encoding).
 
----
+  -Análisis Espacial y Dashboards (Sismicidad en Chile): Geolocalización de eventos y creación de visualizaciones interactivas en Looker Studio para evaluar riesgos.
 
-## 🛠️ Flujo de Trabajo (Pipeline)
-1. **Carga y Exploración:** Lectura de `df_sub_lol.xlsx` y visualización inicial con Pandas.
-2. **Selección de Variables:** Definición fundamentada de la variable independiente ($X$) y dependiente ($y$).
-3. **Análisis de Dispersión y Correlación:** Generación de gráficos con *Seaborn/Matplotlib* y cálculo del coeficiente de correlación de Pearson.
-4. **Modelamiento OLS:** Construcción del modelo de regresión lineal, ajuste con `.fit()` y extracción de pendiente ($b_1$) e intercepto ($b_0$).
-5. **Visualización de la Recta:** Gráfico de la nube de puntos con la recta de regresión superpuesta y la ecuación $y = b_0 + b_1 x$.
-6. **Métricas de Evaluación:** Cálculo de $MSE$, $RMSE$, $MAE$ y $R^2$.
-7. **Interpretación y Discusión:** Análisis crítico de los resultados, capacidad predictiva del modelo y sus limitaciones prácticas en el contexto del juego.
-
----
-
-## 🛠️ Tecnologías Utilizadas
-* **Lenguaje:** Python 3.x
-* **Entorno:** Jupyter Notebook / Google Colab
-* **Librerías principales:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn / Statsmodels
+  -Modelamiento Predictivo (LoL): Implementación de Regresión Lineal Simple (OLS) para analizar la relación entre variables y evaluar el ajuste con métricas (MSE, R^2).
