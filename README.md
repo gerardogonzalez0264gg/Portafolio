@@ -54,5 +54,10 @@ Este repositorio demuestra la aplicación práctica de conceptos de ingeniería 
 * 👤 **Nombre:** Gerardo Alonso González González
 * 🎓 **Carrera:** Ingeniería en Informática — Universidad Bernardo O’Higgins (UBO)
 * ✉️ **Correo:** [gerardo.gonzalez0264@gmail.com](mailto:gerardo.gonzalez0264@gmail.com)
-* 💼 **LinkedIn:** [Gerardo González González](AQUÍ_PEGA_TU_LINK_DE_LINKEDIN)
+* 💼 **LinkedIn:** [Gerardo González González](www.linkedin.com/in/gerardo-gonzález-gonzález-287392360)
 * 📍 **Ubicación:** Santiago, Chile
+
+
+
+
+
